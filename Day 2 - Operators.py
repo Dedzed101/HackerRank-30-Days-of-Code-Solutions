@@ -1,6 +1,6 @@
 # Complete the solve function below.
 def solve(meal_cost, tip_percent, tax_percent):
-        #Cast user input as a float or a variable
+        #Cast user input as a float or an integer
         meal_cost = float(input())
         tip_percent = int(input())
         tax_percent = int(input())
